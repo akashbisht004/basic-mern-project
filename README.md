@@ -1,4 +1,4 @@
-# 🛒 MERN Product Listing App
+# 🛒 Product Listing website
 
 A simple 2-page e-commerce-style application built with the MERN stack where users can **add** and **view** products for sale.
 
